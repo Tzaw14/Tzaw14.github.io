@@ -1,0 +1,12 @@
+*{
+    margin-left: 5%;
+}
+body{
+    background-color: black;
+}
+.intro{
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: white;
+    width: 800px
+}
